@@ -65,3 +65,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
   -->
 </div>
+![Snake animation](https://github.com/systemdsolucoes/systemdsolucoes/blob/output/github-contribution-grid-snake.svg)
