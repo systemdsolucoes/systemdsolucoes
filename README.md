@@ -73,6 +73,6 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<!--
+
 ![Snake animation](https://github.com/systemdsolucoes/systemdsolucoes/blob/output/github-contribution-grid-snake.svg)
--->
+
