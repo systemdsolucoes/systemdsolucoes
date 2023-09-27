@@ -68,4 +68,3 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-[svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
